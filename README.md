@@ -9,3 +9,6 @@ npm install
 
 # Jalankan development server
 npm run dev
+
+localhost:3000\login
+localhost:3000\dashboard
